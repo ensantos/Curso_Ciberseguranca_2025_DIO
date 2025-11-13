@@ -1,4 +1,4 @@
-# Curso_Ciberseguranca_2025_DIO
+# Curso Cibersegurança 2025 DIO
 
 
 * **Acesso a Máquinas Vulneráveis:** Alcançando a máquina `Metasploitable 2`, que serve como alvo prático para testes de intrusão.
