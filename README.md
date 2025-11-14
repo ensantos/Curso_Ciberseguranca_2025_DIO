@@ -1,5 +1,4 @@
-# Desafio - Cibersegurança Santander 2025: 
-* **Simulação de Ataque de Força Bruta com Medusa**
+# Simulação de Ataque de Força Bruta com Medusa | Desafio - Cibersegurança Santander 2025: 
 
 Este exercício prático reproduziu cenários comuns em que a segurança é comprometida por configurações negligenciadas e erros humanos. As imagens e arquivos anexados no repositório registram a execução dos módulos concluídos e evidenciam a metodologia aplicada.
 
